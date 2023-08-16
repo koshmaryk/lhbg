@@ -1,15 +1,14 @@
 -- Html.hs
 
 module Html
-  ( Html
-  , Title
-  , Structure
-  , html_
-  , p_
-  , h1_
-  , append_
-  , render
+  ( Html,
+    Title,
+    Structure,
+    html_,
+    p_,
+    h1_,
+    render,
   )
-  where
+where
 
-import Html.Internal    
+import Html.Internal
